@@ -1,6 +1,6 @@
 # Code-Review
 
-The video discusses enhancements and corrections that were implmented prior to uploading my projects.
+The video discusses enhancements and corrections that were implmented prior to uploading my portfolio projects.
 
 <p align="center"> 
      <a href="https://youtu.be/Z0rn3d1l3z0">Video</a>
